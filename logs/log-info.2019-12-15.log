@@ -1,0 +1,52 @@
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:26.650‖INFO ‖‖Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:26.838‖INFO ‖‖Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$3f1be291] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:30.410‖WARN ‖‖Could not locate PropertySource: I/O error on GET request for "http://127.0.0.1:1223/config/test": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:30.421‖INFO ‖‖The following profiles are active: druid
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:31.634‖WARN ‖‖Skipping MapperFactoryBean with name 'sysDictTypeMapper' and 'com.td.system.mapper.SysDictTypeMapper' mapperInterface. Bean already defined with the same name!
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:31.634‖WARN ‖‖No MyBatis mapper was found in '[com.td]' package. Please check your configuration.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:32.293‖INFO ‖‖Cache with name 'com.td.framework.shiro.realm.UserRealm.authorizationCache' does not yet exist.  Creating now.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:32.294‖INFO ‖‖Added EhCache named [com.td.framework.shiro.realm.UserRealm.authorizationCache]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:32.363‖INFO ‖‖[信息]：数据库加载.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:32.373‖INFO ‖‖[信息]：初始化Druid的数据源
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.022‖INFO ‖‖Using existing EHCache named [loginRecordCache]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.164‖INFO ‖‖Using existing EHCache named [sys-userCache]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.165‖INFO ‖‖Using existing EHCache named [sys-userCache]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.654‖INFO ‖‖Initializing ProtocolHandler ["http-nio-7122"]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.661‖INFO ‖‖Starting service [Tomcat]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.661‖INFO ‖‖Starting Servlet Engine: Apache Tomcat/9.0.13
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.667‖INFO ‖‖The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\javasoft\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\xshell\NetSarang\Xftp-6\;D:\xshell\NetSarang\Xshell-6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;D:\javasoft\jdk1.8\bin;D:\javasoft\jdk1.8\jre\bin;D:\tomcat8\bin;D:\gradle-4.10-rc-2\bin;D:\git\Git\bin;C:\WINDOWS\System32\OpenSSH\;D:\nodejs\;D:\yarn\bin\;C:\VPN\bin;D:\mysql-5.6.17-winx64\bin;D:\maven\apache-maven-3.6.1\bin;D:\python3.6.5\Scripts\;D:\python3.6.5\;C:\Users\12243\AppData\Local\Microsoft\WindowsApps;C:\Users\12243\AppData\Roaming\npm;C:\Users\12243\AppData\Local\Yarn\bin;D:\Fiddler;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:33.825‖INFO ‖‖Initializing Spring embedded WebApplicationContext
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.652‖INFO ‖‖{dataSource-1} inited
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.682‖INFO ‖‖Using default implementation for ThreadExecutor
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.693‖INFO ‖‖Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.693‖INFO ‖‖Quartz Scheduler v.2.3.0 created.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.697‖INFO ‖‖Scheduler meta-data: Quartz Scheduler (v2.3.0) 'RuoyiScheduler' with instanceId 'DESKTOP-0Q34MKS1576391494683'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.697‖INFO ‖‖Quartz scheduler 'RuoyiScheduler' initialized from an externally provided properties instance.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.697‖INFO ‖‖Quartz scheduler version: 2.3.0
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:34.698‖INFO ‖‖JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3b17f489
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:35.986‖INFO ‖‖Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.653‖INFO ‖‖Context refreshed
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.664‖INFO ‖‖Found 1 custom documentation plugin(s)
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.701‖INFO ‖‖Scanning for api listing references
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.783‖INFO ‖‖Starting ProtocolHandler ["http-nio-7122"]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.793‖INFO ‖‖Using a shared selector for servlet write/read
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:37.810‖INFO ‖‖Started Application in 12.649 seconds (JVM running for 14.425)
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:38.040‖INFO ‖‖Initializing Spring DispatcherServlet 'dispatcherServlet'
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:38.938‖INFO ‖‖Scheduler RuoyiScheduler_$_DESKTOP-0Q34MKS1576391494683 started.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:40.054‖WARN ‖‖Could not locate PropertySource: I/O error on GET request for "http://127.0.0.1:1223/config/test": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:51.980‖INFO ‖‖Enabling session validation scheduler...
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:51.980‖DEBUG‖‖Scheduling session validation job using Spring Scheduler with session validation interval of [10]ms...
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:51.980‖DEBUG‖‖Session validation job successfully scheduled with Spring Scheduler.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:51.981‖INFO ‖‖Cache with name 'shiro-activeSessionCache' does not yet exist.  Creating now.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:51.982‖INFO ‖‖Added EhCache named [shiro-activeSessionCache]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:52.981‖INFO ‖‖invalidation sessions...
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:31:52.987‖INFO ‖‖Finished invalidation session. No sessions were stopped.
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:32:06.074‖INFO ‖‖[127.0.0.1]内网IP[tutu][Error][验证码错误]
+config‖18080‖DESKTOP-0Q34MKS‖2019-12-15 14:32:16.016‖INFO ‖‖[127.0.0.1]内网IP[tutu][Success][登录成功]
